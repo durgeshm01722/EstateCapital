@@ -36,7 +36,7 @@ const Footer = () => {
       <br />
       <center>
         <p className="text-sm">
-          Copyright &copy; SuggestME 2022 | All rights reserved
+          Copyright &copy; EstateCapital 2022 | All rights reserved
         </p>
       </center>
     </div>
