@@ -1,0 +1,122 @@
+[
+  {
+    "_ID": 1,
+    "name": "Domestic Real",
+    "price": 2000,
+    "address": "Green valley, Street no. 1, NW",
+    "location": "New York",
+    "propertyType": "House",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": [5, 7],
+    "favourite": false
+  },
+  {
+    "_ID": 2,
+    "name": "Sight Estate",
+    "price": 2790,
+    "address": "Nebulla Point, Street no. 6, PA",
+    "location": "Paris",
+    "propertyType": "House",
+    "beds": 3,
+    "bathrooms": 3,
+    "area": [3, 4.5],
+    "favourite": false
+  },
+  {
+    "_ID": 3,
+    "name": "Tower Real",
+    "price": 5600,
+    "address": "Sunrisers Colony, Street no. 24, BA",
+    "location": "Banglore",
+    "propertyType": "House",
+    "beds": 3,
+    "bathrooms": 4,
+    "area": [5.3, 6.2],
+    "favourite": true
+  },
+  {
+    "_ID": 4,
+    "name": "Resy",
+    "price": 2200,
+    "address": "Red valley, Street no. 14, DU",
+    "location": "Dubai",
+    "propertyType": "Bunglow",
+    "beds": 3,
+    "bathrooms": 4,
+    "area": [5, 7],
+    "favourite": false
+  },
+  {
+    "_ID": 5,
+    "name": "Horizon Estate",
+    "price": 3200,
+    "address": "Pink valley, Street no. 22, NW",
+    "location": "New York",
+    "propertyType": "Bunglow",
+    "beds": 3,
+    "bathrooms": 3,
+    "area": [5, 7],
+    "favourite": true
+  },
+  {
+    "_ID": 6,
+    "name": "Rezo",
+    "price": 1922,
+    "address": "Yellow valley, Street no. 4, MY",
+    "location": "Mysore",
+    "propertyType": "Garage",
+    "beds": 2,
+    "bathrooms": 2,
+    "area": [2, 2.5],
+    "favourite": false
+  },
+  {
+    "_ID": 7,
+    "name": "Beacon Beast",
+    "price": 1430,
+    "address": "Beast valley, Street no. 34, MU",
+    "location": "Mumbai",
+    "propertyType": "Farmhouse",
+    "beds": 2,
+    "bathrooms": 1,
+    "area": [3, 4],
+    "favourite": true
+  },
+  {
+    "_ID": 8,
+    "name": "Skyline Tower",
+    "price": 4000,
+    "address": "Dungeon Circle, Street no. 44, DU",
+    "location": "Dubai",
+    "propertyType": "Bunglow",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": [4.1, 6],
+    "favourite": false
+  },
+  {
+    "_ID": 9,
+    "name": "Invision Hall",
+    "price": 3300,
+    "address": "Green valley, Street no. 1, MY",
+    "location": "Mysore",
+    "propertyType": "Workshop",
+    "beds": 3,
+    "bathrooms": 3,
+    "area": [3.8, 5],
+    "favourite": false
+  },
+  {
+    "_ID": 10,
+    "name": "Estate Pad",
+    "price": 3972,
+    "address": "Blue valley, Street no. 17, CN",
+    "location": "Canada",
+    "propertyType": "Garage",
+    "beds": 1,
+    "bathrooms": 3,
+    "area": [6, 7.5],
+    "favourite": true
+  }
+]
